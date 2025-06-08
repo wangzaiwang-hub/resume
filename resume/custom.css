@@ -1,0 +1,41 @@
+#write {
+    padding: 25px 25px 0px;
+}
+hr {
+    margin: 6px;
+}
+li {
+    margin: 4px;
+}
+p {
+    margin: 4px 13px;
+}
+li p{
+    margin: 5px 0;
+}
+h1 {
+    margin: 8px 15px;
+}
+h3 {
+    margin: 9px;
+}
+h4 {
+    margin: 7px;
+}
+figure {
+    margin: 7px 0px;
+}
+blockquote {
+    padding-left: 16px;
+}
+/* 链接下划线 */
+a {
+    text-decoration:underline;
+}
+/* 表格样式，去除边框显示 */
+table, table td, table tr, table th, th {
+    font-weight: normal;
+    padding: 3px 13px;
+    border: 0px;
+    background-color: #ffffff;
+}
